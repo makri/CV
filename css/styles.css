@@ -20,7 +20,7 @@ h1 {
   color: #00909E;
   font-size: 4.625rem;
   font-family: Sacramento, cursive;
-  padding: 6.625rem 0 0 0;
+  padding: 3.625rem 0 0 0;
   margin: 0;
   font-weight: bold;
 }
@@ -49,7 +49,6 @@ p {
 }
 
 
-
 .header-img {
   border-radius: 20%;
   height: 5rem;
@@ -60,7 +59,7 @@ p {
 }
 
 .header-description {
-  padding: 0 0 5.625rem 0;
+  padding: 0 0 4.625rem 0;
   font-weight: 500;
 }
 
