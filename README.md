@@ -1,2 +1,2 @@
 # CV
-Portfolio
+This Project contains my brief introduction and my portfolio.
