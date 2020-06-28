@@ -108,6 +108,7 @@ p {
 .bottom-container {
   background-color: #DAE1E7;
   padding: 2rem 0 0 0;
+  margin:2rem auto 0 auto;
 }
 
 .contact-me {
@@ -139,7 +140,7 @@ p {
 .footer-link {
   font-weight: normal;
   font-size: 0.9rem;
-  padding-right: 0;
+  padding:0 2rem 0 2rem;
 }
 
 .copyright {
